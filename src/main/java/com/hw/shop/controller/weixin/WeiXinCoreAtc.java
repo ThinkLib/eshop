@@ -41,7 +41,7 @@ public class WeiXinCoreAtc {
 	@Autowired
 	private WxBackService backService;
 	@Autowired
-	private UserInfoService userInfoService;
+//	private UserInfoService userInfoService;
 
 	/**
 	* @Title: checkSignature
