@@ -1,4 +1,4 @@
-package com.hw.framework.weixin.utils;
+package com.hw.framework.utils.weixin;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

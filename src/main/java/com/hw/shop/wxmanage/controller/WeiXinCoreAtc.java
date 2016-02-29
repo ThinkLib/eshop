@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.SessionAttributes;
 
-import com.hw.framework.weixin.utils.SignUtil;
+import com.hw.framework.utils.weixin.SignUtil;
 import com.hw.shop.wxmanage.service.WxBackService;
 
 /**
