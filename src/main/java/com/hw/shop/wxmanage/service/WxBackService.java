@@ -1,11 +1,11 @@
-package com.hw.shop.service.weixin;
+package com.hw.shop.wxmanage.service;
 
 import java.util.List;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
-import com.hw.shop.entity.weixin.WxBack;
+import com.hw.shop.wxmanage.entity.WxBack;
 
 /**
 * @ClassName: BackService

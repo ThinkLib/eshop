@@ -1,4 +1,4 @@
-package com.hw.shop.controller.weixin;
+package com.hw.shop.wxmanage.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.SessionAttributes;
 
 import com.hw.framework.weixin.utils.SignUtil;
-import com.hw.shop.service.weixin.WxBackService;
+import com.hw.shop.wxmanage.service.WxBackService;
 
 /**
 * @ClassName: WeiXinCoreAtc

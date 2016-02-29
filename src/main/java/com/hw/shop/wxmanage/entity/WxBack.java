@@ -1,4 +1,4 @@
-package com.hw.shop.entity.weixin;
+package com.hw.shop.wxmanage.entity;
 
 import java.io.Serializable;
 import java.sql.Timestamp;
