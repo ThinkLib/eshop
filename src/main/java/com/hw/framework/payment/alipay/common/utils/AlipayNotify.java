@@ -1,4 +1,4 @@
-package com.hw.framework.alipay.util;
+package com.hw.framework.payment.alipay.common.utils;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -6,8 +6,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Map;
 
-import com.hw.framework.alipay.config.AlipayConfig;
-import com.hw.framework.alipay.sign.RSA;
+import com.hw.framework.payment.alipay.common.config.AlipayConfig;
+import com.hw.framework.payment.alipay.common.sign.RSA;
 
 /* *
  *类名：AlipayNotify

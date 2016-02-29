@@ -1,4 +1,4 @@
-package com.hw.framework.alipay.config;
+package com.hw.framework.payment.alipay.common.config;
 
 /* *
  *类名：AlipayConfig

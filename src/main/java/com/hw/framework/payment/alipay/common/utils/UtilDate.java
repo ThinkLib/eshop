@@ -1,5 +1,5 @@
 
-package com.hw.framework.alipay.util;
+package com.hw.framework.payment.alipay.common.utils;
 
 import java.util.Date;
 import java.util.Random;

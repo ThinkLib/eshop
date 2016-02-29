@@ -1,5 +1,5 @@
 
-package com.hw.framework.alipay.sign;
+package com.hw.framework.payment.alipay.common.sign;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

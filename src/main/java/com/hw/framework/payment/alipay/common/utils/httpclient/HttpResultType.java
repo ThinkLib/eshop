@@ -2,7 +2,7 @@
  * Alipay.com Inc.
  * Copyright (c) 2004-2005 All Rights Reserved.
  */
-package com.hw.framework.alipay.util.httpClient;
+package com.hw.framework.payment.alipay.common.utils.httpclient;
 
 /* *
  *类名：HttpResultType

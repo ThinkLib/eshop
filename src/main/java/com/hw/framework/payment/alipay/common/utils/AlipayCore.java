@@ -1,4 +1,4 @@
-package com.hw.framework.alipay.util;
+package com.hw.framework.payment.alipay.common.utils;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -13,7 +13,7 @@ import org.apache.commons.codec.digest.DigestUtils;
 import org.apache.commons.httpclient.methods.multipart.FilePartSource;
 import org.apache.commons.httpclient.methods.multipart.PartSource;
 
-import com.hw.framework.alipay.config.AlipayConfig;
+import com.hw.framework.payment.alipay.common.config.AlipayConfig;
 
 /* *
  *类名：AlipayFunction
